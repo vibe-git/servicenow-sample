@@ -1,0 +1,11 @@
+{
+  "name": "servicenow_sample",
+  "version": "1.0.0",
+  "description": "Frontend demo for internal CRM account request form",
+  "main": "index.js",
+  "scripts": {
+    "start": "python3 -m http.server 4173",
+    "test": "node --check index.js"
+  },
+  "private": true
+}
